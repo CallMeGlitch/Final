@@ -1,0 +1,25 @@
+.carousel-img-class{
+    max-height: 600px;
+    height: fit-content;
+}
+
+.btn-active{
+    font-size: 20px;
+}
+
+.button-nav{
+    background-color: #1f4269;
+    color: #FFF;
+}
+
+.footer-class{
+    background-color: #000;
+}
+
+.cpfc{
+    max-width: 90%;
+}
+
+.bass-boi-uamee{
+    max-width: 90%;
+}
